@@ -94,7 +94,7 @@ export const myProjects = [
     desc: "Cette app transforme vos PDF en assistants interactifs capables de répondre à toutes vos questions.",
     subdesc:
       "Next.js 13 avec App Router, TypeScript, TailwindCSS, TRPC, Prisma, Kinde Auth, et UploadThing — le tout orchestré dans une architecture moderne full-stack.",
-    href: "https://www.youtube.com/watch?v=y5vE8y_f_OM",
+    href: "https://github.com/YssharB/Spark",
     texture: "/textures/project/project2.mp4",
     logo: "/assets/spark.png",
     logoStyle: {
@@ -131,7 +131,7 @@ export const myProjects = [
     desc: "Pas pour aller plus vite à tout prix, mais pour aller mieux, avec moins de charge mentale.",
     subdesc:
       "J’automatise avec n8n, Make, Bubble, Airtable et des agents IA. Spoiler alert: Un bot Telegram gère mes mails, un autre cible des leads sur LinkedIn. Résultat : je me concentre sur l’essentiel.",
-    href: "https://www.youtube.com/watch?v=lEflo_sc82g",
+    href: "https://github.com/YssharB/",
     texture: "/textures/project/project3.mp4",
     logo: "/assets/project-logo3.png",
     logoStyle: {
