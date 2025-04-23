@@ -96,7 +96,7 @@ export const myProjects = [
       "Next.js 13 avec App Router, TypeScript, TailwindCSS, TRPC, Prisma, Kinde Auth, et UploadThing — le tout orchestré dans une architecture moderne full-stack.",
     href: "https://www.youtube.com/watch?v=y5vE8y_f_OM",
     texture: "/textures/project/project2.mp4",
-    logo: "/assets/project-logo2.png",
+    logo: "/assets/spark.png",
     logoStyle: {
       backgroundColor: "#13202F",
       border: "0.2px solid #17293E",
@@ -127,10 +127,10 @@ export const myProjects = [
     ],
   },
   {
-    title: "CarePulse - Health Management System",
-    desc: "An innovative healthcare platform designed to streamline essential medical processes. It simplifies patient registration, appointment scheduling, and medical record management, providing a seamless experience for both healthcare providers and patients.",
+    title: "Des outils puissants, au service de differents processus.",
+    desc: "Pas pour aller plus vite à tout prix, mais pour aller mieux, avec moins de charge mentale.",
     subdesc:
-      "With a focus on efficiency, CarePulse integrantes complex forms and SMS notifications, by using Next.js, Appwrite, Twillio and Sentry that enhance operational workflows.",
+      "J’automatise avec n8n, Make, Bubble, Airtable et des agents IA. Spoiler alert: Un bot Telegram gère mes mails, un autre cible des leads sur LinkedIn. Résultat : je me concentre sur l’essentiel.",
     href: "https://www.youtube.com/watch?v=lEflo_sc82g",
     texture: "/textures/project/project3.mp4",
     logo: "/assets/project-logo3.png",
@@ -145,23 +145,23 @@ export const myProjects = [
     tags: [
       {
         id: 1,
-        name: "React.js",
-        path: "/assets/react.svg",
+        name: "n8n",
+        path: "/assets/n8n-color.svg",
       },
       {
         id: 2,
-        name: "TailwindCSS",
-        path: "assets/tailwindcss.png",
+        name: "openai",
+        path: "assets/openai-text.svg",
       },
       {
         id: 3,
-        name: "TypeScript",
-        path: "/assets/typescript.png",
+        name: "make",
+        path: "/assets/make-color.svg",
       },
       {
         id: 4,
-        name: "Framer Motion",
-        path: "/assets/framer.png",
+        name: "airtable",
+        path: "/assets/airtable.svg",
       },
     ],
   },

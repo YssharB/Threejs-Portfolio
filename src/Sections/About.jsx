@@ -34,9 +34,9 @@ const About = () => {
               <p className="grid-subtext">
                 J&apos;utilise{" "}
                 <span>
-                  React JS, Tailwind CSS, Three JS et de nombreux outils
-                  no-code.
-                </span>{" "}
+                  React JS, Tailwind CSS, Three JS et de nombreux autres outils
+                  (y compris du no-code).
+                </span>
               </p>
             </div>
           </div>
