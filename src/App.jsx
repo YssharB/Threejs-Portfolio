@@ -4,6 +4,7 @@ import Footer from "./Sections/Footer";
 import Hero from "./Sections/Hero";
 import Navbar from "./Sections/Navbar";
 import Projects from "./Sections/Projects";
+import { Analytics } from "@vercel/analytics/react";
 
 const App = () => {
   return (
@@ -14,6 +15,7 @@ const App = () => {
       <Projects />
       <Contact />
       <Footer />
+      <Analytics />
     </main>
   );
 };
