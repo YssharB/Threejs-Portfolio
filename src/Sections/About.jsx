@@ -15,9 +15,11 @@ const About = () => {
             <div>
               <p className="grid-headtext">Bonjour, je suis Ysshar.</p>
               <p className="grid-subtext">
-                Comptable de formation, je suis passionné par le dev. Ce site
-                reflète mon parcours unique, mêlant mes compétences comptables
-                et innovations technologiques.
+                Tout a commencé avec une macro en VBA. Un collègue, une astuce,
+                un clic… et je découvre que l&apos;on peux automatiser ce qui ce
+                faisais à la main. Depuis, je code. Petit à petit, le dev
+                m&apos;apprend à penser autrement : plus logique, plus critique,
+                plus libre. Ce site, c&apos;est mon carnet de bord.
               </p>
             </div>
           </div>
@@ -60,8 +62,12 @@ const About = () => {
                 <span className="grid-headtext">Mon parcours</span>
               </p>
               <p className="grid-subtext">
-                Completement autodidacte en programmation, je cherche a me
-                perfectionner et a trouver des nouvelles opportunites.
+                Basé en France et Comptable de formation, je suis autodidacte en
+                programmation
+                <br />
+                <br />
+                PS: Je cherche a me perfectionner et a trouver de nouveaux
+                challenges.
               </p>
               <Button
                 name="Voir mon parcours"
@@ -81,11 +87,16 @@ const About = () => {
             <div>
               <p className="grid-headtext">Mindset</p>
               <p className="grid-subtext">
-                Passionné par le code, l’IA et l’automatisation (Make, n8n,
-                Zapier…), je cherche toujours comment faire mieux avec moins.
-                Pour moi, chaque problème est une opportunité de tester,
-                apprendre, et créer des solutions vraiment utiles — même si ça
-                implique de me planter une ou deux fois en chemin.
+                Je m’intéresse de près au code, à l’IA et à l’automatisation
+                (Make, n8n, Zapier…). Pas pour suivre une tendance, mais parce
+                que j’y vois des leviers concrets pour penser autrement, gagner
+                en clarté et aller à l’essentiel.
+                <br />
+                <br />
+                Toujours en quête de solutions plus simples, plus fluides, plus
+                utiles.Pour moi, Chaque problème est une chance d’apprendre et
+                de créer des solutions utiles — quitte à me planter un peu en
+                chemin.
               </p>
             </div>
           </div>

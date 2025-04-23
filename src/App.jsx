@@ -5,6 +5,7 @@ import Hero from "./Sections/Hero";
 import Navbar from "./Sections/Navbar";
 import Projects from "./Sections/Projects";
 import { Analytics } from "@vercel/analytics/react";
+import { SpeedInsights } from "@vercel/speed-insights/next";
 
 const App = () => {
   return (
@@ -16,6 +17,7 @@ const App = () => {
       <Contact />
       <Footer />
       <Analytics />
+      <SpeedInsights />
     </main>
   );
 };
